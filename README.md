@@ -11,6 +11,12 @@ I decided to take on this project that I named "Deal my car" to help people see 
 
 
 
+![alt text](https://github.com/bgosha24/Deal-my-car/blob/main/image.jpg?raw=true)
+
+
+
+
+
 
 **Overview of work done:**
 
