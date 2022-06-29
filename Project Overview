@@ -4,14 +4,17 @@
 **Project intuition and reasoning:**
 
 Everyone knows that car dealerships (especially used ones) leverage market info against their customers to extract an extremely high profit margin from both their sales and purchases of vehicles.
-They will value your trade-in at no more than 30% it's market value and you will let it go because you are just excited to get a new car and bored of your old one.
-I decided to take on this project that I named "Deal my car" to help people see what a dealer would try to sell their car at after they accept it as a trade in.
+They will value trade-ins from their customers at no more than around 30% of the car's current market value, and most people will let it go for that price because they think that is their best option.
+
+
+
+I decided to take on this project that I named "Deal my car" to help people see what price a dealer would try to sell their car for after they accept it as a trade in.
 
 
 
 
 
-![alt text](https://github.com/bgosha24/Deal-my-car/blob/main/image.jpg?raw=true)
+
 
 
 
@@ -27,3 +30,9 @@ In this project I went through:
 - Performing some EDA to identify key features and trends
 - Selecting and training a regression model
 - Creating a clunky UI for people to see what dealers would price their cars at (will develop a nicer front-end API soon)
+
+
+
+Here is an example:
+
+![alt text](https://github.com/bgosha24/Deal-my-car/blob/main/dealmycarexample.jpg?raw=true)
