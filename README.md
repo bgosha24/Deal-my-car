@@ -1,4 +1,4 @@
-# Deal-my-car
+# Deal my car
 
 
 **Project intuition and reasoning:**
