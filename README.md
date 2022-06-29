@@ -4,11 +4,12 @@
 **Project intuition and reasoning:**
 
 Everyone knows that car dealerships (especially used ones) leverage market info against their customers to extract an extremely high profit margin from both their sales and purchases of vehicles.
-They will value trade-ins from their customers at no more than around 30% of the car's current market value, and most people will let it go for that price because they think that is their best option.
+They will value trade-ins from their customers at no more than around 40% of the car's current market value, and most people will let it go for that price because they think that is their best option.
 
 
 
-I decided to take on this project that I named "Deal my car" to help people see what price a dealer would try to sell their car for after they accept it as a trade in.
+I decided to take on this project to help people see what price a dealer would try to sell their car for after they accept it as a trade in, so that they can know exactly how much they should ask for when negotiating their trade-in.
+
 
 
 
