@@ -36,4 +36,4 @@ In this project I went through:
 
 Here is an example:
 
-![alt text](https://github.com/bgosha24/Deal-my-car/blob/main/dealmycarexample.jpg?raw=true)
+![alt text](https://github.com/bgosha24/Deal-my-car/blob/main/dealmycarexample1.jpg?raw=true)
