@@ -1,14 +1,18 @@
 # Deal-my-car
 
 
-Project intuition and reasoning:
+**Project intuition and reasoning:**
 
 Everyone knows that car dealerships (especially used ones) leverage market info against their customers to extract an extremely high profit margin from both their sales and purchases of vehicles.
 They will value your trade-in at no more than 30% it's market value and you will let it go because you are just excited to get a new car and bored of your old one.
 I decided to take on this project that I named "Deal my car" to help people see what a dealer would try to sell their car at after they accept it as a trade in.
 
 
-Overview of work done:
+
+
+
+
+**Overview of work done:**
 
 In this project I went through:
 
